@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Tres_en_raya</string>
+    <string name="app_name">Tres-en-raya</string>
+    <string name="play_again">play again</string>
+
+    <string-array name="turn_array">
+        <item> Player 1 </item>
+        <item> Player 2 </item>
+    </string-array>
 </resources>
