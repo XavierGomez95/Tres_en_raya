@@ -3,6 +3,7 @@
     <string name="play_again">play again</string>
     <string name="player1_victory">Player 1 is the winner</string>
     <string name="player2_victory">Player 2 is the winner</string>
+    <string name="draw">It\'s a draw!</string>
     <string name="error">This position is already taken!</string>
 
     <string-array name="turn_array">
